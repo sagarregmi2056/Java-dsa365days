@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// find the average sum of three number
 
 public class BasicAssignmentSolution {
 
