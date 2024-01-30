@@ -32,3 +32,8 @@ public class BasicAssignment3 {
     }
 
 }
+
+// question number 4 the largest data type is double thats why output will be
+// resulted on double
+
+// question number 5 the answer is yes
