@@ -8,6 +8,9 @@ public class Array {
 
         int marks[] = new int[50];
 
+        // to find out the length of array variable.length
+        System.out.println("length of our declared array " + marks.length);
+
         Scanner scannerObj = new Scanner(System.in);
 
         System.out.println("enter marks of first subject of index 0");
