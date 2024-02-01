@@ -3,6 +3,7 @@ public class ArrayLargestNUmber {
     public static int SearchingLargestNumber(int Numbers[]) {
         // largest number ma la sab vanda sano value halyou like 0
         int LargestNumber = Integer.MIN_VALUE;
+        int smallestNumber = Integer.MAX_VALUE;
 
         // checking all the numbers one by one
         for (int i = 0; i < Numbers.length; i++) {
@@ -14,9 +15,15 @@ public class ArrayLargestNUmber {
                 LargestNumber = Numbers[i];
 
             }
+
+            if (smallestNumber > Numbers[i]) {
+                smallestNumber = Numbers[i];
+            }
             // comparing number with first number
 
         }
+
+        System.out.println("smallest number is " + smallestNumber);
         return LargestNumber;
 
     }
