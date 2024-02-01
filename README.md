@@ -10,4 +10,7 @@ Day2: Pattern programming problem solving .
 Days3 : BAsics of array.
 
 
+Days 4: Linear search in java 
+
+
 
