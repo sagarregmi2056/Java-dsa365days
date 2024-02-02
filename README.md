@@ -10,7 +10,10 @@ Day2: Pattern programming problem solving .
 Days3 : BAsics of array.
 
 
-Days 4: Linear search in java 
+Days 4: Linear search in java ,Smallest and largest element in array.
+
+
+
 
 
 
