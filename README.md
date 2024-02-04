@@ -13,6 +13,9 @@ Days3 : BAsics of array.
 Days 4: Linear search in java ,Smallest and largest element in array.
 
 
+days5: reverse and array
+
+
 
 
 
